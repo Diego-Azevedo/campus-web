@@ -16,7 +16,7 @@ function showNextImage() {
   descriptionElement.textContent = image.description;
   
   currentImageIndex = (currentImageIndex + 1) % images.length;
-  setTimeout(showNextImage, 5000);
+  setTimeout(showNextImage, 10000);
 }
 
 document.addEventListener("DOMContentLoaded", function() {
