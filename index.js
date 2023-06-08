@@ -3,7 +3,7 @@ var images = [
   { src: "img/image2.png"},
   { src: "img/image3.png"},
   { src: "img/image4.png"},
-  { src: "img/web1.png"}
+  { src: "img/image5.png"}
 ];
 var currentImageIndex = 0;
 
