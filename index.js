@@ -1,9 +1,9 @@
 var images = [
-  { src: "img/image1.png"},
-  { src: "img/image20.png"},
-  { src: "img/image30.png"},
-  { src: "img/image40.png"},
-  { src: "img/image50.png"}
+  { src: "img/image10.png"},
+  { src: "img/image2.png"},
+  { src: "img/image3.png"},
+  { src: "img/image4.png"},
+  { src: "img/image5.png"}
 ];
 var currentImageIndex = 0;
 

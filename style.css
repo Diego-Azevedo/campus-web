@@ -28,9 +28,10 @@ img {
 
 footer {
   position: fixed;
+  display: block;
+  justify-content: center;
   align-items: center;
   height: 10%;
-  background-color: #f2f2f2;
   padding: 20px;
 }
 
