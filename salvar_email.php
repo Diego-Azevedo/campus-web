@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>enviaform</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
 <?php
 // Dados de conexão com o banco de dados
 $servername = "containers-us-west-132.railway.app";  // Nome do servidor
@@ -28,3 +37,4 @@ if ($conn->query($sql) === TRUE) {
 // Fechar a conexão com o banco de dados
 $conn->close();
 ?>
+</body>
