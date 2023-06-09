@@ -9,9 +9,9 @@
 <body>
 <?php
 // Dados de conexão com o banco de dados
-$servername = "containers-us-west-43.railway.app";
-$username = "root";     // Nome de usuário do banco de dados
-$password = "IfG0kZ0CbslfXJSRfsKo";        // Senha do banco de dados
+$servername = "containers-us-west-208.railway.app";
+$username = "postgres";     // Nome de usuário do banco de dados
+$password = "ZdREZySvL0Rk52s2qpfO";        // Senha do banco de dados
 $dbname = "railway";  // Nome do banco de dados
 
 // Estabelecer a conexão
