@@ -26,7 +26,7 @@ if ($conn->connect_error) {
 $email = $_POST['email'];
 
 // Preparar e executar a consulta SQL para inserir os dados
-$sql = "INSERT INTO beta(usuarios) VALUES ('$email')";
+$sql = "INSERT INTO usuario(email) VALUES ('$email')";
 
 if ($conn->query($sql) === TRUE) {
     echo "E-mail salvo com sucesso!";
