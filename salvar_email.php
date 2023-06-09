@@ -9,7 +9,7 @@
 <body>
 <?php
 // Dados de conexão com o banco de dados
-$servername = "containers-us-west-132.railway.app";  // Nome do servidor
+$servername = "mysql://root:kf2HXPBC0ZDBfmUUgNz7@containers-us-west-132.railway.app:6913/railway";
 $username = "root";     // Nome de usuário do banco de dados
 $password = "kf2HXPBC0ZDBfmUUgNz7";        // Senha do banco de dados
 $dbname = "railway";  // Nome do banco de dados
