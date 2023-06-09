@@ -3,7 +3,7 @@
 $servername = "containers-us-west-132.railway.app";  // Nome do servidor
 $username = "root";     // Nome de usuário do banco de dados
 $password = "kf2HXPBC0ZDBfmUUgNz7";        // Senha do banco de dados
-$dbname = "banco";  // Nome do banco de dados
+$dbname = "railway";  // Nome do banco de dados
 
 // Estabelecer a conexão
 $conn = new mysqli($servername, $username, $password, $dbname);
