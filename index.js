@@ -35,6 +35,12 @@ function updateNavigationButtons() {
 
   previousButton.disabled = currentImageIndex === 0;
   nextButton.disabled = currentImageIndex === images.length - 1;
+
+  if (currentImageIndex === images.length - 1) {
+    nextButton.style.visibility = "hidden";
+  } else {
+    nextButton.style.visibility = "visible";
+  }
 }
 
 document.addEventListener("DOMContentLoaded", function() {
