@@ -1,5 +1,4 @@
 var images = [
-  { src: "img/image1.png"},
   { src: "img/image2.png"},
   { src: "img/image3.png"},
   { src: "img/image4.png"},
