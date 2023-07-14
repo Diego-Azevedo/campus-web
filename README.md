@@ -9,7 +9,7 @@ A landing page Campus web foi criada para a divulgação do projeto e captação
 
 Tecnologias utilizadas: **HTML/ CSS/ JAVASCRIPT**
 
-# ulr
+# Ulr
 
 https://campus-seguro.netlify.app
 
